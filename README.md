@@ -27,17 +27,11 @@ augmentation-robustness-study/
 ├── notebooks/
 │   └── augmentation_experiment.ipynb
 │
-├── results/
-│   ├── metrics.csv
-│   └── figures/
-│       ├── robustness_scatter.png
-│       └── robustness_barplot.png
-│
-├── configs/
-│   └── training_config.yaml
-│
-└── docs/
-    └── experiment_description.md
+└── results/
+    ├── metrics.csv
+    └── figures/
+        ├── robustness_scatter.png
+        └── robustness_barplot.png
 ```
 
 ---
